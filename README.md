@@ -4,6 +4,13 @@ Welcome to my GitHub profile! I'm **Krish Patel**, a passionate learner and enth
 ## About Me
 I am a Computer Information Systems student at Wentworth Institute of Technology with expertise in **Python**, **SQL**, **R**, and **data analytics**. My projects focus on predictive modeling, data visualization, and IT solutions, including forecasting electricity usage with **90% accuracy**, analyzing rental trends, and creating interactive dashboards for real-time insights.
 
+## Reach Out
+Feel free to connect with me:
+
+- 📧 **Work Email:** [patelkrish1833@gmail.com](mailto:patelkrish1833@gmail.com)  
+- 📧 **School Email:** [patelk22@wit.edu](mailto:patelk22@wit.edu)  
+- 💼 **LinkedIn:** [linkedin.com/in/krish-patel18](https://www.linkedin.com/in/krish-patel18/)  
+- 🌐 **Portfolio:** [www.krishpatelportfolio.com](https://www.krishpatelportfolio.com/)  
 
 ## My Projects
 Here are some of my key projects:
@@ -31,11 +38,3 @@ Here are some of my key projects:
 
 - **[Local Company Case Analysis](https://github.com/patelk1833/Local-Company-Case-Analysis)**
   Conducted a market analysis to evaluate a restaurant's competitive strategy and customer retention. Proposed digital strategies to enhance performance.
-
-## Reach Out
-Feel free to connect with me:
-
-- 📧 **Work Email:** [patelkrish1833@gmail.com](mailto:patelkrish1833@gmail.com)  
-- 📧 **School Email:** [patelk22@wit.edu](mailto:patelk22@wit.edu)  
-- 💼 **LinkedIn:** [linkedin.com/in/krish-patel18](https://www.linkedin.com/in/krish-patel18/)  
-- 🌐 **Portfolio:** [www.krishpatelportfolio.com](https://www.krishpatelportfolio.com/)  
