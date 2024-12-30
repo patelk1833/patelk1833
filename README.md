@@ -14,7 +14,7 @@ Here are some of my key projects:
 - **[COVID-19 Data Visualization Project](https://github.com/patelk1833/COVID-19-Data-Visualization-Project)**
   Designed an interactive Shiny dashboard to analyze COVID-19 trends, integrating real-time data scraping and automating data cleaning.
 
-  - **[Boston Rental Property Recommendation System](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System)**
+- **[Boston Rental Property Recommendation System](https://github.com/patelk1833/Boston-Rental-Property-Recommendation-System)**
   Built a Random Forest model to predict rental prices (RMSE: 555.94). Analyzed HomeHarvest and Google API data for travel times and property features.
 
 - **[Restaurant System Analysis Design](https://github.com/patelk1833/Restaurant-System-Analysis-Design)**
