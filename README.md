@@ -15,6 +15,8 @@ Feel free to connect with me:
 ## My Projects
 Here are some of my key projects:
 
+- **Stock Dashboard(https://github.com/patelk1833/stock-dashboard)**
+   Developed a Streamlit-based financial dashboard integrating Alpha Vantage and Polygon APIs for real-time financial data analysis, stock price visualization, and sentiment insights.
 - **[Electricity Usage Prediction with Machine Learning](https://github.com/patelk1833/Electricity-Usage-Prediction-with-Machine-Learning-Using-Python-)**
   Developed an XGBoost model with 90% accuracy to predict electricity usage for small and medium states. Analyzed electricity and weather data to identify trends, engineered features for optimization.
 
