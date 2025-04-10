@@ -15,6 +15,8 @@ Feel free to connect with me:
 ## My Projects
 Here are some of my key projects:
 
+- **[Boston Crime Insights using Tableau](https://github.com/patelk1833/Boston-Crime-Insights-using-Tableau/tree/main)** An interactive Tableau project analyzing Boston crime data (2015–2025) to uncover patterns by time, type, and location using publicly available data.
+
 - **[Stock Dashboard](https://github.com/patelk1833/stock-dashboard)**
    Developed a Streamlit-based financial dashboard integrating Alpha Vantage and Polygon APIs for real-time financial data analysis, stock price visualization, and sentiment insights.
 - **[Electricity Usage Prediction with Machine Learning](https://github.com/patelk1833/Electricity-Usage-Prediction-with-Machine-Learning-Using-Python-)**
@@ -40,5 +42,3 @@ Here are some of my key projects:
 
 - **[Local Company Case Analysis](https://github.com/patelk1833/Local-Company-Case-Analysis)**
   Conducted a market analysis to evaluate a restaurant's competitive strategy and customer retention. Proposed digital strategies to enhance performance.
-
-- **[Boston Crime Insights using Tableau](https://github.com/patelk1833/Boston-Crime-Insights-using-Tableau/tree/main)** An interactive Tableau project analyzing Boston crime data (2015–2025) to uncover patterns by time, type, and location using publicly available data.
