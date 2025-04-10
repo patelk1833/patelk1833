@@ -9,7 +9,7 @@ Feel free to connect with me:
 
 - 📧 **Work Email:** [patelkrish1833@gmail.com](mailto:patelkrish1833@gmail.com)  
 - 📧 **School Email:** [patelk22@wit.edu](mailto:patelk22@wit.edu)  
-- 💼 **LinkedIn:** [linkedin.com/in/krish-patel18](https://www.linkedin.com/in/krish-patel18/)  
+- 💼 **LinkedIn:** [linkedin.com/in/krish-patel18](https://www.linkedin.com/in/krish-patel-604264294/)  
 - 🌐 **Portfolio:** [www.krishpatelportfolio.com](https://www.krishpatelportfolio.com/)  
 
 ## My Projects
